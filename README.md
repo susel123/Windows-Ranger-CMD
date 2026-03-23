@@ -2,6 +2,29 @@
 
 Minimalist terminal file manager inspired by ranger, built in Python for Windows.
 
+## Features
+
+- Browse files and folders in a ranger-style interface
+- Three-column layout (parent / current / preview)
+- Fuzzy search for quick file finding
+- File preview:
+  - Text files preview
+  - Image preview (ASCII / terminal rendering)
+- Play MP3 files directly in terminal
+- Multi-selection (select multiple files)
+- File operations:
+  - Copy
+  - Move
+  - Paste
+  - Delete (with confirmation)
+- History navigation (back / forward)
+- Sorting (by name, size, date)
+- Filter files by extension
+- Bookmarks (quick access to folders)
+- Handles long file names (scrolling display)
+- File info panel (size, path, date)
+- Works in standard Windows terminal (no external tools required)
+
 ## Preview
 
 ![preview]()
