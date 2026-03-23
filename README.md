@@ -28,8 +28,6 @@ Minimalist terminal file manager inspired by ranger, built in Python for Windows
 
 ## Preview
 
-![preview]
-
 <img width="957" height="475" alt="Zrzut ekranu (443)" src="https://github.com/user-attachments/assets/d6f50bd1-1108-4359-9807-6bf6f74ee2bc" />
 
 <img width="1920" height="1008" alt="Zrzut ekranu (444)" src="https://github.com/user-attachments/assets/598756b2-9d25-4150-a47e-244024ac4534" />
